@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#lost and found system
 
 import json
 import os
