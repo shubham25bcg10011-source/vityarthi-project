@@ -38,6 +38,3 @@ This is a simple command-line application designed to help users report, track, 
 - Invalid inputs will prompt error messages, ensuring robustness.
 - Test saving and loading data by restarting the application and confirming persistence.
 
----
-
-Feel free to customize or expand this README for your project's hosting or documentation needs.
